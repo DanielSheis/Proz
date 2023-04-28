@@ -1,2 +1,2 @@
 Olá eu sou Daniel
-O comando git push serve para atualizar o repositorio remoto com as alteracoes feitas no locak
+O comando git push serve para atualizar o repositorio remoto com as alteracoes feitas no local
